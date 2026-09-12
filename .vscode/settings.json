@@ -1,9 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "src"
-    ],
-    "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
-        "lwjgl-release-3.3.6-custom/*.jar"
-    ]
-}
